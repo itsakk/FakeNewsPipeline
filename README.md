@@ -8,7 +8,7 @@ This project deals with all the steps of the data science pipeline: starting wit
 
 ## Dataset
 
-The dataset used is the FakeNewsNet dataset, which can be downloaded on the [Github](https://github.com/KaiDMML/FakeNewsNet) repository.
+The dataset used is the FakeNewsNet dataset, which can be rietreve using the [Github](https://github.com/KaiDMML/FakeNewsNet) repository.
 
 ## Results
 ![upfd-results](https://user-images.githubusercontent.com/66783741/133689112-517f2b30-bc20-49bd-954e-9bb91e63e52b.PNG)
